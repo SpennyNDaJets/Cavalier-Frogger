@@ -1,0 +1,17 @@
+This game is designed in a fashion similar to frogger.
+It is a two player game, one Hokie and one Cavalier, in which they race against each other
+to collect coins and reach the goal on the other side of the road. They must avoid the 6 lanes
+of cars. Each player starts out with 10 lives and 0 points.
+
+The features used were:
+    *2 player game where players directly interact - cav can push the hokie
+    *Enemies - cars take lives awayfrom players when hit
+    *Collectables - coins add 1 score point, target adds 5 score points
+    *Timer - counts down from 60 seconds
+    Health meter (lives) - each player starts game with 10 lives
+    Sound effects - Scoring sound effects
+    * - top 4 features
+
+Cav uses arrow keys to move. Hokie uses "w"-up, "a"-left, "s"-down, and "d"-right to move.
+Reach the target without getting hit by cars to score. Player with the highest score when both
+lives run out, or when timer hits 0, wins.
